@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/opnsense-lockout-factory-ip">opnsense-lockout-factory-ip</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/opnsense-lockout-factory-ip"><strong>https://abraxaslabs.tech/research/opnsense-lockout-factory-ip</strong></a>
+</p>
+
 
 # opnsense-lockout-factory-ip
 
